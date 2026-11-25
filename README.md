@@ -1,8 +1,8 @@
-# Peak-XD
+# Mini-XD
 A 3D multiplayer replica of PK XD built in TurboWarp using the Simple 3D extension.
 
 ### Play Online
-**[Play Peak-XD in your browser](https://github.io)**
+**[Play Mini-XD in your browser](https://github.io)**
 
 ### Controls
 - **WASD / Arrow Keys:** Walk & turn
